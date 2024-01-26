@@ -13,7 +13,7 @@ const Projects = () => {
                             ProjectData.map((value, index) => {
                                 return (
                                     <>
-                                        <div className='col-md-4 g-5'>
+                                        <div className='col-10 col-md-6 col-lg-4 mx-auto g-5'>
                                             <Cards
                                                 key={index}
                                                 img={value.img}

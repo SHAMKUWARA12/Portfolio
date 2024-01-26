@@ -7,10 +7,10 @@ const Cards = (props) => {
     return (
         <>
             <div className="card mycard">
-                <img className="card-img-top imgdiv" src={props.img} alt="Cardimagecap" />
+                <img className="card-img-top cardimg" src={props.img} alt="Cardimagecap" />
                 <div className="card-body">
-                    <h5 className="card-title">{props.title}</h5>
-                    <a href={props.link} target="_blank" rel="noreferrer" className="btn btn-primary ">Visit Link</a>
+                    <h5 className="card-title my-2">{props.title}</h5>
+                    <a href={props.link} target="_blank" rel="noreferrer" className="btn btn-outline-light ">Visit Link</a>
                 </div>
             </div>
         </>
