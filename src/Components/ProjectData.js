@@ -9,12 +9,12 @@ const ProjectData = [
     {
         img:p1,
         title:'Real Time Code Editor',
-        link:'https://www.facebook.com'
+        link:'https://github.com/SHAMKUWARA12/Real-Time-Code-Editor'
     },
     {
         img:p2,
         title:'Antiragging Database Management',
-        link:'https://www.facebook.com'
+        link:'https://github.com/SHAMKUWARA12/Antiragging-Database-System'
     },
     {
         img:p3,
